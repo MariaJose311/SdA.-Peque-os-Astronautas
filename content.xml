@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260611165757NCOUFN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260611165757EBGMMZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA. Pequeños astronautas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Exploradores del Universo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María José Giménez Jiménez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje sobre el universo destinada a alumnado de 5 años de Educación Infantil.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781188988062</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggf-o2npy0tnu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggf-o2npy0tnu</odePageId>
+      <odeBlockId>block-1781105700938-a04hw9ngq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggf-o2npy0tnu</odePageId>
+          <odeBlockId>block-1781105700938-a04hw9ngq</odeBlockId>
+          <odeIdeviceId>idevice-1781105700937-vuop2huhs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Portada SdA (2).png" title="portada" width="1536" height="1086" alt="portada" /></p>
+<p><a href="https://canva.link/6defi5izccyhot8" title="Portada">Portada </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781105700937-vuop2huhs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Portada SdA (2).png\" title=\"portada\" width=\"1536\" height=\"1086\" alt=\"portada\" /></p>\n<p><a href=\"https://canva.link/6defi5izccyhot8\" title=\"Portada\">Portada </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggh-1p67tcp09</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggh-1p67tcp09</odePageId>
+      <odeBlockId>block-1781015539187-tzvie7oyj</odeBlockId>
+      <blockName>¡Bienvenidos a una nueva aventura!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggh-1p67tcp09</odePageId>
+          <odeBlockId>block-1781015539187-tzvie7oyj</odeBlockId>
+          <odeIdeviceId>idevice-1781015539185-aqre0l21c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante las próximas 4 semanas, nos convertiremos en auténticos expertos del espacio.  A través de experiencias manipulativas, recursos digitales y actividades cooperativas, descubriremos el Sistema Solar y sus características, los planetas y el trabajo de los astronautas.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-10 173847.png" title="astronauta" width="165" height="213" alt="astronauta " style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781015539185-aqre0l21c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante las próximas 4 semanas, nos convertiremos en auténticos expertos del espacio.  A través de experiencias manipulativas, recursos digitales y actividades cooperativas, descubriremos el Sistema Solar y sus características, los planetas y el trabajo de los astronautas.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-10 173847.png\" title=\"astronauta\" width=\"165\" height=\"213\" alt=\"astronauta \" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggh-pvg82ltwg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación de la SdA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggh-pvg82ltwg</odePageId>
+      <odeBlockId>block-1781016879911-at7t6uhed</odeBlockId>
+      <blockName>¿Qué vamos a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggh-pvg82ltwg</odePageId>
+          <odeBlockId>block-1781016879911-at7t6uhed</odeBlockId>
+          <odeIdeviceId>idevice-1781016879910-3kesprle8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Título:</strong> "Pequeños astronautas: exploradores del universo"</li>
+<li><strong>Nivel educativo:</strong> 5 años de Educación Infantil</li>
+<li><strong>Temporalización:</strong> 4 semanas (12-15 sesiones)<br /></li>
+<li><strong>Áreas implicadas:</strong> Es una propuesta de carácter globalizado, integrando todas las áreas de Educación Infantil.<br /></li>
+<li><strong>Idioma:</strong> Español<br /></li>
+<li><strong>Descripción:</strong> Situación de aprendizaje sobre el universo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781016879910-3kesprle8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Título:</strong> \"Pequeños astronautas: exploradores del universo\"</li>\n<li><strong>Nivel educativo:</strong> 5 años de Educación Infantil</li>\n<li><strong>Temporalización:</strong> 4 semanas (12-15 sesiones)<br /></li>\n<li><strong>Áreas implicadas:</strong> Es una propuesta de carácter globalizado, integrando todas las áreas de Educación Infantil.<br /></li>\n<li><strong>Idioma:</strong> Español<br /></li>\n<li><strong>Descripción:</strong> Situación de aprendizaje sobre el universo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggi-d68e1aoe2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggi-d68e1aoe2</odePageId>
+      <odeBlockId>block-1781017641314-mzvyc42mf</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggi-d68e1aoe2</odePageId>
+          <odeBlockId>block-1781017641314-mzvyc42mf</odeBlockId>
+          <odeIdeviceId>idevice-1781017641310-baggurlbv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta SdA consiste en una Exposición Espacial, en la que mostraremos los conocimientos adquiridos apoyándonos en el material creado durante su desarrollo. Como complemento a esta exposición, elaboraremos un Genially interactivo que servirá como memoria digital del proyecto y como apoyo visual a la exposición. De esta forma tendremos apoyo tanto físico como digital de los materiales realizados como:</p>
+<ul style="list-style-type: circle;">
+<li>Maquetas<br /></li>
+<li>Murales<br /></li>
+<li>Dibujos<br /></li>
+<li>Grabaciones</li>
+<li>Experimentos<br /></li>
+<li>Explicaciones orales<br /></li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Diseño sin título.png" title="Producto final" width="606" height="857" alt="Producto final" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781017641310-baggurlbv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta SdA consiste en una Exposición Espacial, en la que mostraremos los conocimientos adquiridos apoyándonos en el material creado durante su desarrollo. Como complemento a esta exposición, elaboraremos un Genially interactivo que servirá como memoria digital del proyecto y como apoyo visual a la exposición. De esta forma tendremos apoyo tanto físico como digital de los materiales realizados como:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Maquetas<br /></li>\n<li>Murales<br /></li>\n<li>Dibujos<br /></li>\n<li>Grabaciones</li>\n<li>Experimentos<br /></li>\n<li>Explicaciones orales<br /></li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Diseño sin título.png\" title=\"Producto final\" width=\"606\" height=\"857\" alt=\"Producto final\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggi-od220fxke</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggi-od220fxke</odePageId>
+      <odeBlockId>block-1781165002853-s4vcomfvb</odeBlockId>
+      <blockName>Protección de datos y derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggi-od220fxke</odePageId>
+          <odeBlockId>block-1781165002853-s4vcomfvb</odeBlockId>
+          <odeIdeviceId>idevice-1781165002853-8x3zqip23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía Astronautas Digitales.png" title="Protección de datos y derechos digitales" width="1536" height="2173" alt="Protección de datos y derechos digitales" /></p>
+<p><a href="https://canva.link/r3wccgajffnmd79" title="Infografía Astronautas Digitales">Infografía Astronautas Digitales</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781165002853-8x3zqip23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía Astronautas Digitales.png\" title=\"Protección de datos y derechos digitales\" width=\"1536\" height=\"2173\" alt=\"Protección de datos y derechos digitales\" /></p>\n<p><a href=\"https://canva.link/r3wccgajffnmd79\" title=\"Infografía Astronautas Digitales\">Infografía Astronautas Digitales</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggi-od220fxke</odePageId>
+      <odeBlockId>block-1781167716755-t1q6ejtie</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggi-od220fxke</odePageId>
+          <odeBlockId>block-1781167716755-t1q6ejtie</odeBlockId>
+          <odeIdeviceId>idevice-1781167716753-6b9uiv44x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el desarrollo del proyecto se respetará la normativa vigente en materia de protección de datos personales y garantías de los derechos digitales. Las imágenes, audios o vídeos del alumnado únicamente se utilizarán con autorización familiar y con fines educativos. Asimismo, se fomentará un uso responsable, seguro y respetuoso de las tecnologías digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781167716753-6b9uiv44x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el desarrollo del proyecto se respetará la normativa vigente en materia de protección de datos personales y garantías de los derechos digitales. Las imágenes, audios o vídeos del alumnado únicamente se utilizarán con autorización familiar y con fines educativos. Asimismo, se fomentará un uso responsable, seguro y respetuoso de las tecnologías digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggj-w6ld9348g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggj-w6ld9348g</odePageId>
+      <odeBlockId>block-1781167445156-w5bby7fup</odeBlockId>
+      <blockName>Recursos necesarios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggj-w6ld9348g</odePageId>
+          <odeBlockId>block-1781167445156-w5bby7fup</odeBlockId>
+          <odeIdeviceId>idevice-1781167445154-lee9chi3e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Todos los recursos que necesitamos para nuestro viaje al espacio están aquí: <a href="https://padlet.com/mariajosegj3/sda-pequenos-astronautas-nn1qgb784k1vodfb" title="Recursos espaciales">Recursos espaciales</a> </p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-11 123500.png" title="Astronauta" width="142" height="231" alt="Astronauta" style="float: right;" /></p>
+<p><br /></p>
+<p>Para nuestro día a día: <a href="https://www.symbaloo.com/home/mix/13ePLeA74f" title="Recursos del aula">Recursos del aula</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781167445154-lee9chi3e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todos los recursos que necesitamos para nuestro viaje al espacio están aquí: <a href=\"https://padlet.com/mariajosegj3/sda-pequenos-astronautas-nn1qgb784k1vodfb\" title=\"Recursos espaciales\">Recursos espaciales</a> </p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-11 123500.png\" title=\"Astronauta\" width=\"142\" height=\"231\" alt=\"Astronauta\" style=\"float: right;\" /></p>\n<p><br /></p>\n<p>Para nuestro día a día: <a href=\"https://www.symbaloo.com/home/mix/13ePLeA74f\" title=\"Recursos del aula\">Recursos del aula</a></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggj-fs9w7g8sf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggj-fs9w7g8sf</odePageId>
+      <odeBlockId>block-1781170988370-mlxy8nkxn</odeBlockId>
+      <blockName>¿Cómo vamos a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggj-fs9w7g8sf</odePageId>
+          <odeBlockId>block-1781170988370-mlxy8nkxn</odeBlockId>
+          <odeIdeviceId>idevice-1781170988369-m6snj8ami</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-11 112437.png" title="Línea temporal SdA Pequeños astronautas" width="983" height="737" alt="Línea temporal SdA Pequeños astronautas" /></p>
+<p><a href="https://canva.link/xdg29da8t9fus1f" title="Línea temporal SdA Pequeños astronautas">Línea temporal SdA Pequeños astronautas</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781170988369-m6snj8ami","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-11 112437.png\" title=\"Línea temporal SdA Pequeños astronautas\" width=\"983\" height=\"737\" alt=\"Línea temporal SdA Pequeños astronautas\" /></p>\n<p><a href=\"https://canva.link/xdg29da8t9fus1f\" title=\"Línea temporal SdA Pequeños astronautas\">Línea temporal SdA Pequeños astronautas</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggk-hvxi1aukq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades y criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggk-hvxi1aukq</odePageId>
+      <odeBlockId>block-1781177657842-qqt8earne</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggk-hvxi1aukq</odePageId>
+          <odeBlockId>block-1781177657842-qqt8earne</odeBlockId>
+          <odeIdeviceId>idevice-1781177657839-8yxboyz1h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad 1. ¿Qué sabemos sobre el universo?</strong></p>
+<ul>
+<li>Asamblea inicial y recogida de ideas previas</li>
+<li>Criterio de evaluación: 2.2.6</li>
+<li>Agrupamiento: Gran grupo</li>
+<li>Tiempo aproximado: 45 min</li>
+<li>Herramienta: PDI</li>
+</ul>
+<p><strong>Actividad 2. El Sistema Solar</strong></p>
+<ul>
+<li>Observamos imágenes y vídeos del Sistema Solar.</li>
+<li>Criterio de evaluación: 2.3.3<br /></li>
+<li>Agrupamiento: Gran grupo<br /></li>
+<li>Tiempo aproximado: 45 min</li>
+<li>Herramienta: PDI</li>
+</ul>
+<p><strong>Actividad 3. Los planetas</strong></p>
+<ul>
+<li>Investigamos los planetas.</li>
+<li>Criterio de evaluación: 2.2.3<br /></li>
+<li>Agrupamiento: Pequeño grupo<br /></li>
+<li>Tiempo aproximado: 2 sesiones<br /></li>
+<li>Herramienta: Portátil/tablets</li>
+</ul>
+<p><strong>Actividad 4. Construcción del Sistema Solar</strong></p>
+<ul>
+<li>Investigamos los planetas.<br /></li>
+<li>Criterio de evaluación: 3.3.4</li>
+<li>Agrupamiento: Pequeño grupo</li>
+<li>Tiempo aproximado: 2 sesiones</li>
+<li>Herramienta: Cámara</li>
+</ul>
+<p><strong>Actividad 5. Astronautas por un día</strong></p>
+<ul>
+<li>Juego simbólico.</li>
+<li>Criterio de evaluación: 1.1.4</li>
+<li>Agrupamiento: Gran grupo</li>
+<li>Tiempo aproximado: 45 min</li>
+<li>Herramienta: PDI</li>
+</ul>
+<p><strong>Actividad 6. Experimento día y noche</strong></p>
+<ul>
+<li>Experimentación</li>
+<li>Criterio de evaluación: 1.3.2<br /></li>
+<li>Agrupamiento: Pequeño grupo<br /></li>
+<li>Tiempo aproximado: 45 min<br /></li>
+<li>Herramienta: Cámara</li>
+</ul>
+<p><strong>Actividad 7. Grabación de lo aprendido</strong></p>
+<ul>
+<li>Grabamos lo que hemos aprendido sobre el universo.</li>
+<li>Criterio de evaluación: 3.1.4</li>
+<li>Agrupamiento: Individual</li>
+<li>Tiempo aproximado: 45 min</li>
+<li>Herramienta: Cámara</li>
+</ul>
+<p><strong>Actividad 8. Recopilación de materiales</strong></p>
+<ul>
+<li>Seleccionamos fotografías, dibujos y audios para el Genially.</li>
+<li>Criterio de evaluación: 3.1.2<br /></li>
+<li>Agrupamiento: Pequeño grupo<br /></li>
+<li>Tiempo aproximado: 45 min<br /></li>
+<li>Herramienta: Portátil</li>
+</ul>
+<p><strong>Actividad 9. Elaboración del Genially</strong></p>
+<ul>
+<li>Elaboramos el Genially de aula.</li>
+<li>Criterio de evaluación: 3.1.4</li>
+<li>Agrupamiento: Pequeño grupo</li>
+<li>Tiempo aproximado: 45 min</li>
+<li>Herramienta: Genially</li>
+</ul>
+<p><strong>Actividad 10: Exposición espacial</strong></p>
+<ul>
+<li>Exposición de lo aprendido.</li>
+<li>Criterio de evaluación: 3.3.1</li>
+<li>Agrupamiento: Gran grupo</li>
+<li>Tiempo aproximado: 45 min</li>
+<li>Herramienta: Genially y PDI</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781177657839-8yxboyz1h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad 1. ¿Qué sabemos sobre el universo?</strong></p>\n<ul>\n<li>Asamblea inicial y recogida de ideas previas</li>\n<li>Criterio de evaluación: 2.2.6</li>\n<li>Agrupamiento: Gran grupo</li>\n<li>Tiempo aproximado: 45 min</li>\n<li>Herramienta: PDI</li>\n</ul>\n<p><strong>Actividad 2. El Sistema Solar</strong></p>\n<ul>\n<li>Observamos imágenes y vídeos del Sistema Solar.</li>\n<li>Criterio de evaluación: 2.3.3<br /></li>\n<li>Agrupamiento: Gran grupo<br /></li>\n<li>Tiempo aproximado: 45 min</li>\n<li>Herramienta: PDI</li>\n</ul>\n<p><strong>Actividad 3. Los planetas</strong></p>\n<ul>\n<li>Investigamos los planetas.</li>\n<li>Criterio de evaluación: 2.2.3<br /></li>\n<li>Agrupamiento: Pequeño grupo<br /></li>\n<li>Tiempo aproximado: 2 sesiones<br /></li>\n<li>Herramienta: Portátil/tablets</li>\n</ul>\n<p><strong>Actividad 4. Construcción del Sistema Solar</strong></p>\n<ul>\n<li>Investigamos los planetas.<br /></li>\n<li>Criterio de evaluación: 3.3.4</li>\n<li>Agrupamiento: Pequeño grupo</li>\n<li>Tiempo aproximado: 2 sesiones</li>\n<li>Herramienta: Cámara</li>\n</ul>\n<p><strong>Actividad 5. Astronautas por un día</strong></p>\n<ul>\n<li>Juego simbólico.</li>\n<li>Criterio de evaluación: 1.1.4</li>\n<li>Agrupamiento: Gran grupo</li>\n<li>Tiempo aproximado: 45 min</li>\n<li>Herramienta: PDI</li>\n</ul>\n<p><strong>Actividad 6. Experimento día y noche</strong></p>\n<ul>\n<li>Experimentación</li>\n<li>Criterio de evaluación: 1.3.2<br /></li>\n<li>Agrupamiento: Pequeño grupo<br /></li>\n<li>Tiempo aproximado: 45 min<br /></li>\n<li>Herramienta: Cámara</li>\n</ul>\n<p><strong>Actividad 7. Grabación de lo aprendido</strong></p>\n<ul>\n<li>Grabamos lo que hemos aprendido sobre el universo.</li>\n<li>Criterio de evaluación: 3.1.4</li>\n<li>Agrupamiento: Individual</li>\n<li>Tiempo aproximado: 45 min</li>\n<li>Herramienta: Cámara</li>\n</ul>\n<p><strong>Actividad 8. Recopilación de materiales</strong></p>\n<ul>\n<li>Seleccionamos fotografías, dibujos y audios para el Genially.</li>\n<li>Criterio de evaluación: 3.1.2<br /></li>\n<li>Agrupamiento: Pequeño grupo<br /></li>\n<li>Tiempo aproximado: 45 min<br /></li>\n<li>Herramienta: Portátil</li>\n</ul>\n<p><strong>Actividad 9. Elaboración del Genially</strong></p>\n<ul>\n<li>Elaboramos el Genially de aula.</li>\n<li>Criterio de evaluación: 3.1.4</li>\n<li>Agrupamiento: Pequeño grupo</li>\n<li>Tiempo aproximado: 45 min</li>\n<li>Herramienta: Genially</li>\n</ul>\n<p><strong>Actividad 10: Exposición espacial</strong></p>\n<ul>\n<li>Exposición de lo aprendido.</li>\n<li>Criterio de evaluación: 3.3.1</li>\n<li>Agrupamiento: Gran grupo</li>\n<li>Tiempo aproximado: 45 min</li>\n<li>Herramienta: Genially y PDI</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggk-bkopfjtya</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggk-bkopfjtya</odePageId>
+      <odeBlockId>block-1781171109960-lxass1cp5</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggk-bkopfjtya</odePageId>
+          <odeBlockId>block-1781171109960-lxass1cp5</odeBlockId>
+          <odeIdeviceId>idevice-1781171109959-1uylm5id7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La <a href="https://docs.google.com/document/d/1opSo00MwbUe0Dcci580qbv1hQxb_JxymD4QP_uyeN2c/edit?usp=sharing" title="">evaluación</a> de la SdA tendrá un carácter continuo, formativo y globalizado. A lo largo de las diferentes tareas se utilizarán diversos instrumentos que permitan recoger evidencias del aprendizaje del alumnado, valorar su progreso y ofrecer una retroalimentación adecuada tanto a nivel individual como grupal.</p>
+<p>Para ello se emplearán tres instrumentos complementarios:</p>
+<ul style="list-style-type: circle;">
+<li>Lista de cotejo</li>
+<li>Rúbrica de evaluación del producto final</li>
+<li>Escala de valoración para la autoevaluación del alumnado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781171109959-1uylm5id7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La <a href=\"https://docs.google.com/document/d/1opSo00MwbUe0Dcci580qbv1hQxb_JxymD4QP_uyeN2c/edit?usp=sharing\" title=\"\">evaluación</a> de la SdA tendrá un carácter continuo, formativo y globalizado. A lo largo de las diferentes tareas se utilizarán diversos instrumentos que permitan recoger evidencias del aprendizaje del alumnado, valorar su progreso y ofrecer una retroalimentación adecuada tanto a nivel individual como grupal.</p>\n<p>Para ello se emplearán tres instrumentos complementarios:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Lista de cotejo</li>\n<li>Rúbrica de evaluación del producto final</li>\n<li>Escala de valoración para la autoevaluación del alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggl-2egr8jroq</odePageId>
+  <odeParentPageId>page-mq9l2ggk-bkopfjtya</odeParentPageId>
+  <pageName>Lista de cotejo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggl-2egr8jroq</odePageId>
+      <odeBlockId>block-1781171214535-f422swn3s</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggl-2egr8jroq</odePageId>
+          <odeBlockId>block-1781171214535-f422swn3s</odeBlockId>
+          <odeIdeviceId>idevice-1781171214535-2dsgoogiz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este instrumento se utilizará especialmente durante las actividades iniciales y de desarrollo del proyecto, como la asamblea de ideas previas sobre el universo, la investigación sobre los planetas, la experimentación o la construcción del Sistema Solar con materiales reciclados.<br />Periódicamente se irán registrando las conductas observables utilizando una lista sencilla de indicadores con respuestas del tipo "Sí", "En proceso" o "No".</p>
+<p>Por ejemplo, para evaluar la actividad 1, la asamblea de recogida de conocimientos previos se observará:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-11 140041.png" title="lista de cotejo" width="732" height="303" alt="lista de cotejo" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781171214535-2dsgoogiz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este instrumento se utilizará especialmente durante las actividades iniciales y de desarrollo del proyecto, como la asamblea de ideas previas sobre el universo, la investigación sobre los planetas, la experimentación o la construcción del Sistema Solar con materiales reciclados.<br />Periódicamente se irán registrando las conductas observables utilizando una lista sencilla de indicadores con respuestas del tipo \"Sí\", \"En proceso\" o \"No\".</p>\n<p>Por ejemplo, para evaluar la actividad 1, la asamblea de recogida de conocimientos previos se observará:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-11 140041.png\" title=\"lista de cotejo\" width=\"732\" height=\"303\" alt=\"lista de cotejo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggl-70x4l0cjz</odePageId>
+  <odeParentPageId>page-mq9l2ggk-bkopfjtya</odeParentPageId>
+  <pageName>Rúbrica de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggl-70x4l0cjz</odePageId>
+      <odeBlockId>block-1781171807564-simvl4frm</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggl-70x4l0cjz</odePageId>
+          <odeBlockId>block-1781171807564-simvl4frm</odeBlockId>
+          <odeIdeviceId>idevice-1781171807563-80n85brku</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para valorar el producto final de la SdA, se utilizará una rúbrica que permita evaluar diferentes aspectos del trabajo realizado. La información se recogerá observando el proceso de elaboración del Genially y analizando posteriormente el producto final y la exposición realizada por el alumnado.</p>
+<p>La rúbrica permitirá identificar fortalezas y aspectos de mejora tanto a nivel individual como grupal. Los resultados servirán para valorar el grado de adquisición de las competencias específicas trabajadas durante el proyecto y para planificar futuras propuestas de aprendizaje.</p>
+<p>Por ejemplo, para evaluar el producto final se empleará la siguiente rúbrica:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-11 140121.png" title="Rúbrica" width="863" height="807" alt="Rúbrica" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781171807563-80n85brku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para valorar el producto final de la SdA, se utilizará una rúbrica que permita evaluar diferentes aspectos del trabajo realizado. La información se recogerá observando el proceso de elaboración del Genially y analizando posteriormente el producto final y la exposición realizada por el alumnado.</p>\n<p>La rúbrica permitirá identificar fortalezas y aspectos de mejora tanto a nivel individual como grupal. Los resultados servirán para valorar el grado de adquisición de las competencias específicas trabajadas durante el proyecto y para planificar futuras propuestas de aprendizaje.</p>\n<p>Por ejemplo, para evaluar el producto final se empleará la siguiente rúbrica:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-11 140121.png\" title=\"Rúbrica\" width=\"863\" height=\"807\" alt=\"Rúbrica\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggm-j977jv2vx</odePageId>
+  <odeParentPageId>page-mq9l2ggk-bkopfjtya</odeParentPageId>
+  <pageName>Escala de valoración</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Escala de valoración</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Escala de valoración</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggm-j977jv2vx</odePageId>
+      <odeBlockId>block-1781172410507-uvnphawla</odeBlockId>
+      <blockName>Escala de valoración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggm-j977jv2vx</odePageId>
+          <odeBlockId>block-1781172410507-uvnphawla</odeBlockId>
+          <odeIdeviceId>idevice-1781172410505-2ffe4opal</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al finalizar la SdA, cada alumno completará una sencilla escala de valoración adaptada a su nivel madurativo. Cada uno coloreará las estrellas según el nivel de logro que considere más adecuado en cada apartado. Posteriormente se realizará una pequeña puesta en común para comentar los resultados. Los datos obtenidos permitirán conocer la percepción que tiene el alumnado sobre su propio aprendizaje y comparar esa visión con la información recogida mediante la observación y la rúbrica.</p>
+<p style="text-align: left;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-09 135851.png" title="Escala de valoración " width="525" height="718" alt="Autoevaluación" style="display: block; margin-left: auto; margin-right: auto;" /><a href="https://canva.link/zb0hb81s9irt19x" title="Escala de valoración ">Escala de valoración </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781172410505-2ffe4opal","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar la SdA, cada alumno completará una sencilla escala de valoración adaptada a su nivel madurativo. Cada uno coloreará las estrellas según el nivel de logro que considere más adecuado en cada apartado. Posteriormente se realizará una pequeña puesta en común para comentar los resultados. Los datos obtenidos permitirán conocer la percepción que tiene el alumnado sobre su propio aprendizaje y comparar esa visión con la información recogida mediante la observación y la rúbrica.</p>\n<p style=\"text-align: left;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-09 135851.png\" title=\"Escala de valoración \" width=\"525\" height=\"718\" alt=\"Autoevaluación\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><a href=\"https://canva.link/zb0hb81s9irt19x\" title=\"Escala de valoración \">Escala de valoración </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggm-u51gc1nud</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad y DUA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggm-u51gc1nud</odePageId>
+      <odeBlockId>block-1781173052648-ej456rovg</odeBlockId>
+      <blockName>Atención a la diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggm-u51gc1nud</odePageId>
+          <odeBlockId>block-1781173052648-ej456rovg</odeBlockId>
+          <odeIdeviceId>idevice-1781173052645-f8ly2kuvc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje ha sido diseñada teniendo en cuenta la diversidad presente en el aula, favoreciendo la participación activa y el progreso de todo el alumnado, independientemente de sus características, intereses, ritmos y estilos de aprendizaje.</p>
+<p>Para ello se adoptarán medidas como:</p>
+<ul style="list-style-type: circle;">
+<li><strong>Flexibilización de agrupamientos</strong>, alternando actividades individuales, en pequeño grupo y en gran grupo, favoreciendo la ayuda entre iguales.<br /></li>
+<li><strong>Adaptación de los tiempos</strong> de realización de las tareas cuando sea necesario, respetando el ritmo madurativo del alumnado.<br /></li>
+<li><strong>Uso de apoyos visuales y manipulativos</strong>, como imágenes, pictogramas, maquetas, cuentos impresos y materiales sensoriales que faciliten la comprensión de los contenidos.<br /></li>
+<li><strong>Diversificación de los canales de expresión</strong>, permitiendo que el alumnado muestre lo aprendido mediante producciones artísticas, explicaciones orales, grabaciones de audio, participación en juegos simbólicos o aportaciones al Genially del aula.<br /></li>
+<li><strong>Propuestas con distintos niveles de complejidad</strong>, ofreciendo apoyos adicionales o ampliaciones según las necesidades individuales.<br /></li>
+<li><strong>Creación de un clima inclusivo y seguro</strong>, promoviendo el respeto, la cooperación y la valoración positiva de las aportaciones de todos los niños y niñas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781173052645-f8ly2kuvc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje ha sido diseñada teniendo en cuenta la diversidad presente en el aula, favoreciendo la participación activa y el progreso de todo el alumnado, independientemente de sus características, intereses, ritmos y estilos de aprendizaje.</p>\n<p>Para ello se adoptarán medidas como:</p>\n<ul style=\"list-style-type: circle;\">\n<li><strong>Flexibilización de agrupamientos</strong>, alternando actividades individuales, en pequeño grupo y en gran grupo, favoreciendo la ayuda entre iguales.<br /></li>\n<li><strong>Adaptación de los tiempos</strong> de realización de las tareas cuando sea necesario, respetando el ritmo madurativo del alumnado.<br /></li>\n<li><strong>Uso de apoyos visuales y manipulativos</strong>, como imágenes, pictogramas, maquetas, cuentos impresos y materiales sensoriales que faciliten la comprensión de los contenidos.<br /></li>\n<li><strong>Diversificación de los canales de expresión</strong>, permitiendo que el alumnado muestre lo aprendido mediante producciones artísticas, explicaciones orales, grabaciones de audio, participación en juegos simbólicos o aportaciones al Genially del aula.<br /></li>\n<li><strong>Propuestas con distintos niveles de complejidad</strong>, ofreciendo apoyos adicionales o ampliaciones según las necesidades individuales.<br /></li>\n<li><strong>Creación de un clima inclusivo y seguro</strong>, promoviendo el respeto, la cooperación y la valoración positiva de las aportaciones de todos los niños y niñas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggm-u51gc1nud</odePageId>
+      <odeBlockId>block-1781173804148-jpoydhezu</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggm-u51gc1nud</odePageId>
+          <odeBlockId>block-1781173804148-jpoydhezu</odeBlockId>
+          <odeIdeviceId>idevice-1781173804146-yhcp849xe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La propuesta incorpora los tres principios fundamentales del DUA:</p>
+<p>1. Proporcionar múltiples formas de implicación. </p>
+<ul style="list-style-type: circle;">
+<li>Utilización de una temática cercana y motivadora como el universo y los astronautas.<br /></li>
+<li>Incorporación del juego, la experimentación y el descubrimiento.<br /></li>
+<li>Participación activa en la exposición final dirigida a las familias y otros grupos del centro.<br /></li>
+<li>Refuerzo positivo y reconocimiento de los logros individuales y grupales.</li>
+</ul>
+<p>2. Proporcionar múltiples formas de representación </p>
+<ul style="list-style-type: circle;">
+<li>Presentación de la información mediante cuentos, vídeos, imágenes, canciones y explicaciones orales.<br /></li>
+<li>Uso combinado de recursos digitales y materiales manipulativos.</li>
+<li>Empleo de ejemplos concretos y experiencias prácticas adaptadas al nivel evolutivo del alumnado.</li>
+</ul>
+<p>3. Proporcionar múltiples formas de acción y expresión</p>
+<ul style="list-style-type: circle;">
+<li>Elaboración de maquetas y producciones artísticas.<br /></li>
+<li>Participación en dramatizaciones y juegos simbólicos.<br /></li>
+<li>Grabación de audios y vídeos explicando los aprendizajes adquiridos.<br /></li>
+<li>Contribución al Genially de aula como memoria digital del proyecto.</li>
+</ul>
+<p>De este modo, se pretende garantizar que todo el alumnado tenga oportunidades reales de acceso, participación y éxito en el proceso de enseñanza-aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781173804146-yhcp849xe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La propuesta incorpora los tres principios fundamentales del DUA:</p>\n<p>1. Proporcionar múltiples formas de implicación. </p>\n<ul style=\"list-style-type: circle;\">\n<li>Utilización de una temática cercana y motivadora como el universo y los astronautas.<br /></li>\n<li>Incorporación del juego, la experimentación y el descubrimiento.<br /></li>\n<li>Participación activa en la exposición final dirigida a las familias y otros grupos del centro.<br /></li>\n<li>Refuerzo positivo y reconocimiento de los logros individuales y grupales.</li>\n</ul>\n<p>2. Proporcionar múltiples formas de representación </p>\n<ul style=\"list-style-type: circle;\">\n<li>Presentación de la información mediante cuentos, vídeos, imágenes, canciones y explicaciones orales.<br /></li>\n<li>Uso combinado de recursos digitales y materiales manipulativos.</li>\n<li>Empleo de ejemplos concretos y experiencias prácticas adaptadas al nivel evolutivo del alumnado.</li>\n</ul>\n<p>3. Proporcionar múltiples formas de acción y expresión</p>\n<ul style=\"list-style-type: circle;\">\n<li>Elaboración de maquetas y producciones artísticas.<br /></li>\n<li>Participación en dramatizaciones y juegos simbólicos.<br /></li>\n<li>Grabación de audios y vídeos explicando los aprendizajes adquiridos.<br /></li>\n<li>Contribución al Genially de aula como memoria digital del proyecto.</li>\n</ul>\n<p>De este modo, se pretende garantizar que todo el alumnado tenga oportunidades reales de acceso, participación y éxito en el proceso de enseñanza-aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggm-krnbm6fok</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggm-krnbm6fok</odePageId>
+      <odeBlockId>block-1781168472654-vwzzh51br</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggm-krnbm6fok</odePageId>
+          <odeBlockId>block-1781168472654-vwzzh51br</odeBlockId>
+          <odeIdeviceId>idevice-1781168472644-81e85lxye</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1PhUgxr4B_R6awIYdiu2-ke058ysRkR9saMEmm5cYFgA/edit?usp=sharing" title="Criterios de evaluación">Actividades y criterios de evaluación</a></p>
+<table border="1" style="width: 99.9769%; height: 1104.8px;">
+<tbody>
+<tr style="height: 104.8px;">
+<td style="width: 21.476%; text-align: center; height: 104.8px;">TAREA </td>
+<td style="width: 33.5929%; text-align: center; height: 104.8px;">CRITERIO DE EVALUACIÓN</td>
+<td style="width: 16.1628%; text-align: center; height: 104.8px;">AGRUPAMIENTO</td>
+<td style="width: 13.9693%; text-align: center; height: 104.8px;">TIEMPO APROXIMADO</td>
+<td style="width: 14.662%; text-align: center; height: 104.8px;">HERRAMIENTA QUE SE LE SIGUERIRÁ AL ALUMNADO</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 21.476%; height: 104.8px;">1. ¿Qué sabemos del universo? Asamblea inicial y recogida de ideas previas.</td>
+<td style="width: 33.5929%; height: 104.8px;">2.2.6. Participar en proyectos utilizando dinámicas cooperativas, compartiendo y valorando opiniones propias y ajenas, y expresando conclusiones personales a partir de ellas.</td>
+<td style="width: 16.1628%; text-align: center; height: 104.8px;">Gran grupo</td>
+<td style="width: 13.9693%; text-align: center; height: 104.8px;">45 min</td>
+<td style="width: 14.662%; text-align: center; height: 104.8px;">PDI</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 21.476%; height: 104.8px;">2. Observamos imágenes y vídeos del Sistema Solar.</td>
+<td style="width: 33.5929%; height: 104.8px;">2.3.3. Establecer relaciones entre el medio natural y el social a partir del conocimiento y la observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico.</td>
+<td style="width: 16.1628%; text-align: center; height: 104.8px;">Gran grupo </td>
+<td style="width: 13.9693%; text-align: center; height: 104.8px;">45 min</td>
+<td style="width: 14.662%; text-align: center; height: 104.8px;">PDI y vídeos educativos</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 21.476%; height: 80.8px;">3. Investigamos los planetas.</td>
+<td style="width: 33.5929%; height: 80.8px;">2.2.3. Plantear hipótesis acerca del comportamiento de ciertos elementos o materiales, verificándolas a través de la manipulación y la actuación sobre ellos.</td>
+<td style="width: 16.1628%; text-align: center; height: 80.8px;">Pequeño grupo </td>
+<td style="width: 13.9693%; text-align: center; height: 80.8px;">2 sesiones</td>
+<td style="width: 14.662%; text-align: center; height: 80.8px;">Portátil/tablets</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 21.476%; height: 104.8px;">4. Construimos nuestro Sistema Solar con materiales reciclados.</td>
+<td style="width: 33.5929%; height: 104.8px;">3.3.4. Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise.</td>
+<td style="width: 16.1628%; text-align: center; height: 104.8px;">Pequeño grupo </td>
+<td style="width: 13.9693%; text-align: center; height: 104.8px;">2 sesiones</td>
+<td style="width: 14.662%; text-align: center; height: 104.8px;">Cámara</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 21.476%; height: 80.8px;">5. Astronautas por un día (juego simbólico).</td>
+<td style="width: 33.5929%; height: 80.8px;">1.1.4. Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales.</td>
+<td style="width: 16.1628%; height: 80.8px; text-align: center;">Gran grupo</td>
+<td style="width: 13.9693%; height: 80.8px; text-align: center;">45 min</td>
+<td style="width: 14.662%; height: 80.8px; text-align: center;">Videos de ambientación</td>
+</tr>
+<tr style="height: 128.8px;">
+<td style="width: 21.476%; height: 128.8px;">6. Experimento sobre el día y la noche.</td>
+<td style="width: 33.5929%; height: 128.8px;">1.3.2. Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas.</td>
+<td style="width: 16.1628%; height: 128.8px; text-align: center;">Pequeño grupo </td>
+<td style="width: 13.9693%; height: 128.8px; text-align: center;">45 min</td>
+<td style="width: 14.662%; height: 128.8px; text-align: center;">PDI, videos educativos y cámara para documentar.</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 21.476%; height: 80.8px;">7. Grabamos lo que hemos aprendido sobre el universo.</td>
+<td style="width: 33.5929%; height: 80.8px;">3.1.4. Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.</td>
+<td style="width: 16.1628%; height: 80.8px; text-align: center;">Individual</td>
+<td style="width: 13.9693%; height: 80.8px; text-align: center;">45 min</td>
+<td style="width: 14.662%; height: 80.8px; text-align: center;">Cámara de video</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 21.476%; height: 104.8px;">8. Seleccionamos fotografías, dibujos y audios para el Genially.</td>
+<td style="width: 33.5929%; height: 104.8px;">3.1.2. Ajustar su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.</td>
+<td style="width: 16.1628%; height: 104.8px; text-align: center;">Pequeño grupo</td>
+<td style="width: 13.9693%; height: 104.8px; text-align: center;">45 min</td>
+<td style="width: 14.662%; height: 104.8px; text-align: center;">Genially</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 21.476%; height: 80.8px;">9. Elaboramos el Genially de aula.</td>
+<td style="width: 33.5929%; height: 80.8px;">3.1.4. Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.</td>
+<td style="width: 16.1628%; height: 80.8px; text-align: center;">Gran grupo</td>
+<td style="width: 13.9693%; height: 80.8px; text-align: center;">45 min</td>
+<td style="width: 14.662%; height: 80.8px; text-align: center;">Genially</td>
+</tr>
+<tr style="height: 128.8px;">
+<td style="width: 21.476%; height: 128.8px;">10. Exposición Espacial y presentación a familias.</td>
+<td style="width: 33.5929%; height: 128.8px;">3.3.1. Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.</td>
+<td style="width: 16.1628%; height: 128.8px; text-align: center;">Gran grupo </td>
+<td style="width: 13.9693%; height: 128.8px; text-align: center;">45 min</td>
+<td style="width: 14.662%; height: 128.8px; text-align: center;">Genially y PDI</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</strong><br />Los posibles problemas técnicos se resolverán mediante una planificación flexible que combine recursos digitales y analógicos. Antes de cada sesión se comprobará el funcionamiento de los dispositivos y de la conexión a Internet. Además, se dispondrá de materiales alternativos como cuentos impresos, imágenes, murales, maquetas, fichas y actividades manipulativas que permitan continuar la actividad si surge alguna incidencia técnica. Asimismo, las fotografías, vídeos y demás materiales digitales se guardarán previamente y se realizarán copias de seguridad para evitar pérdidas de información. De esta forma se garantiza la continuidad del aprendizaje y se promueve un uso responsable, seguro y sostenible de las tecnologías digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781168472644-81e85lxye","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1PhUgxr4B_R6awIYdiu2-ke058ysRkR9saMEmm5cYFgA/edit?usp=sharing\" title=\"Criterios de evaluación\">Actividades y criterios de evaluación</a></p>\n<table border=\"1\" style=\"width: 99.9769%; height: 1104.8px;\">\n<tbody>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 21.476%; text-align: center; height: 104.8px;\">TAREA </td>\n<td style=\"width: 33.5929%; text-align: center; height: 104.8px;\">CRITERIO DE EVALUACIÓN</td>\n<td style=\"width: 16.1628%; text-align: center; height: 104.8px;\">AGRUPAMIENTO</td>\n<td style=\"width: 13.9693%; text-align: center; height: 104.8px;\">TIEMPO APROXIMADO</td>\n<td style=\"width: 14.662%; text-align: center; height: 104.8px;\">HERRAMIENTA QUE SE LE SIGUERIRÁ AL ALUMNADO</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 21.476%; height: 104.8px;\">1. ¿Qué sabemos del universo? Asamblea inicial y recogida de ideas previas.</td>\n<td style=\"width: 33.5929%; height: 104.8px;\">2.2.6. Participar en proyectos utilizando dinámicas cooperativas, compartiendo y valorando opiniones propias y ajenas, y expresando conclusiones personales a partir de ellas.</td>\n<td style=\"width: 16.1628%; text-align: center; height: 104.8px;\">Gran grupo</td>\n<td style=\"width: 13.9693%; text-align: center; height: 104.8px;\">45 min</td>\n<td style=\"width: 14.662%; text-align: center; height: 104.8px;\">PDI</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 21.476%; height: 104.8px;\">2. Observamos imágenes y vídeos del Sistema Solar.</td>\n<td style=\"width: 33.5929%; height: 104.8px;\">2.3.3. Establecer relaciones entre el medio natural y el social a partir del conocimiento y la observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico.</td>\n<td style=\"width: 16.1628%; text-align: center; height: 104.8px;\">Gran grupo </td>\n<td style=\"width: 13.9693%; text-align: center; height: 104.8px;\">45 min</td>\n<td style=\"width: 14.662%; text-align: center; height: 104.8px;\">PDI y vídeos educativos</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 21.476%; height: 80.8px;\">3. Investigamos los planetas.</td>\n<td style=\"width: 33.5929%; height: 80.8px;\">2.2.3. Plantear hipótesis acerca del comportamiento de ciertos elementos o materiales, verificándolas a través de la manipulación y la actuación sobre ellos.</td>\n<td style=\"width: 16.1628%; text-align: center; height: 80.8px;\">Pequeño grupo </td>\n<td style=\"width: 13.9693%; text-align: center; height: 80.8px;\">2 sesiones</td>\n<td style=\"width: 14.662%; text-align: center; height: 80.8px;\">Portátil/tablets</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 21.476%; height: 104.8px;\">4. Construimos nuestro Sistema Solar con materiales reciclados.</td>\n<td style=\"width: 33.5929%; height: 104.8px;\">3.3.4. Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise.</td>\n<td style=\"width: 16.1628%; text-align: center; height: 104.8px;\">Pequeño grupo </td>\n<td style=\"width: 13.9693%; text-align: center; height: 104.8px;\">2 sesiones</td>\n<td style=\"width: 14.662%; text-align: center; height: 104.8px;\">Cámara</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 21.476%; height: 80.8px;\">5. Astronautas por un día (juego simbólico).</td>\n<td style=\"width: 33.5929%; height: 80.8px;\">1.1.4. Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales.</td>\n<td style=\"width: 16.1628%; height: 80.8px; text-align: center;\">Gran grupo</td>\n<td style=\"width: 13.9693%; height: 80.8px; text-align: center;\">45 min</td>\n<td style=\"width: 14.662%; height: 80.8px; text-align: center;\">Videos de ambientación</td>\n</tr>\n<tr style=\"height: 128.8px;\">\n<td style=\"width: 21.476%; height: 128.8px;\">6. Experimento sobre el día y la noche.</td>\n<td style=\"width: 33.5929%; height: 128.8px;\">1.3.2. Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas.</td>\n<td style=\"width: 16.1628%; height: 128.8px; text-align: center;\">Pequeño grupo </td>\n<td style=\"width: 13.9693%; height: 128.8px; text-align: center;\">45 min</td>\n<td style=\"width: 14.662%; height: 128.8px; text-align: center;\">PDI, videos educativos y cámara para documentar.</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 21.476%; height: 80.8px;\">7. Grabamos lo que hemos aprendido sobre el universo.</td>\n<td style=\"width: 33.5929%; height: 80.8px;\">3.1.4. Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.</td>\n<td style=\"width: 16.1628%; height: 80.8px; text-align: center;\">Individual</td>\n<td style=\"width: 13.9693%; height: 80.8px; text-align: center;\">45 min</td>\n<td style=\"width: 14.662%; height: 80.8px; text-align: center;\">Cámara de video</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 21.476%; height: 104.8px;\">8. Seleccionamos fotografías, dibujos y audios para el Genially.</td>\n<td style=\"width: 33.5929%; height: 104.8px;\">3.1.2. Ajustar su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.</td>\n<td style=\"width: 16.1628%; height: 104.8px; text-align: center;\">Pequeño grupo</td>\n<td style=\"width: 13.9693%; height: 104.8px; text-align: center;\">45 min</td>\n<td style=\"width: 14.662%; height: 104.8px; text-align: center;\">Genially</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 21.476%; height: 80.8px;\">9. Elaboramos el Genially de aula.</td>\n<td style=\"width: 33.5929%; height: 80.8px;\">3.1.4. Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.</td>\n<td style=\"width: 16.1628%; height: 80.8px; text-align: center;\">Gran grupo</td>\n<td style=\"width: 13.9693%; height: 80.8px; text-align: center;\">45 min</td>\n<td style=\"width: 14.662%; height: 80.8px; text-align: center;\">Genially</td>\n</tr>\n<tr style=\"height: 128.8px;\">\n<td style=\"width: 21.476%; height: 128.8px;\">10. Exposición Espacial y presentación a familias.</td>\n<td style=\"width: 33.5929%; height: 128.8px;\">3.3.1. Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.</td>\n<td style=\"width: 16.1628%; height: 128.8px; text-align: center;\">Gran grupo </td>\n<td style=\"width: 13.9693%; height: 128.8px; text-align: center;\">45 min</td>\n<td style=\"width: 14.662%; height: 128.8px; text-align: center;\">Genially y PDI</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</strong><br />Los posibles problemas técnicos se resolverán mediante una planificación flexible que combine recursos digitales y analógicos. Antes de cada sesión se comprobará el funcionamiento de los dispositivos y de la conexión a Internet. Además, se dispondrá de materiales alternativos como cuentos impresos, imágenes, murales, maquetas, fichas y actividades manipulativas que permitan continuar la actividad si surge alguna incidencia técnica. Asimismo, las fotografías, vídeos y demás materiales digitales se guardarán previamente y se realizarán copias de seguridad para evitar pérdidas de información. De esta forma se garantiza la continuidad del aprendizaje y se promueve un uso responsable, seguro y sostenible de las tecnologías digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9l2ggm-tc6dtm8f3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggm-tc6dtm8f3</odePageId>
+      <odeBlockId>block-1781173160845-6z3ea4uey</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggm-tc6dtm8f3</odePageId>
+          <odeBlockId>block-1781173160845-6z3ea4uey</odeBlockId>
+          <odeIdeviceId>idevice-1781173160845-192qf0fj4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Proyecto desarrollado por María José Giménez Jiménez para el curso de Competencia Digital Docente B2.</p>
+<p style="text-align: center;">Creado bajo licencia Creative Commons  CC BY-NC-SA 4.0, tanto el proyecto como las imágenes.</p>
+<p style="text-align: center;">Situación de Aprendizaje para Educación Infantil sobre el universo.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781173160845-192qf0fj4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Proyecto desarrollado por María José Giménez Jiménez para el curso de Competencia Digital Docente B2.</p>\n<p style=\"text-align: center;\">Creado bajo licencia Creative Commons  CC BY-NC-SA 4.0, tanto el proyecto como las imágenes.</p>\n<p style=\"text-align: center;\">Situación de Aprendizaje para Educación Infantil sobre el universo.</p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9l2ggm-tc6dtm8f3</odePageId>
+      <odeBlockId>block-1781189819066-360y6oiw3</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9l2ggm-tc6dtm8f3</odePageId>
+          <odeBlockId>block-1781189819066-360y6oiw3</odeBlockId>
+          <odeIdeviceId>idevice-1781189819063-ppfiww7qw</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA. Pequeños astronautas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje sobre el universo destinada a alumnado de 5 años de Educación Infantil.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María José Giménez Jiménez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
